@@ -27,11 +27,3 @@ Python pipeline for residue interaction network (RIN) analysis of molecular dyna
 ```bash
 pip install MDAnalysis networkx numpy matplotlib seaborn
 
-**## Usage**
-
-python protein_rin_analysis.py
-
-Outputs
-RIN_heatmap.png
-RIN_lineplot.png
-*_centrality.txt
